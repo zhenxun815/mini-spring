@@ -1,7 +1,9 @@
 # Project exclude paths
 /.gradle/
+/.idea/
 /build/
 /framework/build/
 /framework/build/classes/java/main/
 /test/build/
 /test/build/classes/java/main/
+/tomcat.8899/
